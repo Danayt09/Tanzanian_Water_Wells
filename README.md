@@ -1,6 +1,8 @@
 # Tanzanian Water Wells
 #### Water pump functionality in rural schemes
 
+![](Images/waterpump.jpg)
+
 # Background 
 Tanzanzia is a developing country located in the east of Africa, the country has a population of 67.4 Million, with a GDP of $67.8 Billion  and an economic growth rate of 6% by 2025. The goal of this project is to address some important UN sustainable dev goals in Tanzania. Those are associated to water access, water sanitation and poverty reduction as water has direct relationship to crop growth, health, societal participation and decreased school attendance for young boys and girl which affects their development. The mission of this project is to identify areas with high correlation to a pumps functionality, from this identification this project will then recommend actions to take to improve water access and create a model to create efficiency in handling future pump status based on it's features.
 
