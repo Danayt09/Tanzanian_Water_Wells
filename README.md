@@ -5,7 +5,7 @@
 Tanzanzia is a developing country located in the east of Africa, the country has a population of 67.4 Million, with a GDP of $67.8 Billion  and an economic growth rate of 6% by 2025. The goal of this project is to address some important UN sustainable dev goals in Tanzania. Those are associated to water access, water sanitation and poverty reduction as water has direct relationship to crop growth, health, societal participation and decreased school attendance for young boys and girl which affects their development. The mission of this project is to identify areas with high correlation to a pumps functionality, from this identification this project will then recommend actions to take to improve water access and create a model to create efficiency in handling future pump status based on it's features.
 
 # Data Understanding 
-The data used in this assesment was found at datadriven.org and retrieved from the government of Tanzania and Taarifa. The information had duplicate entries and within th ![EDA file(https://github.com/Danayt09/Tanzanian_Water_Wells/blob/main/EDA.ipynb), after cleaning anf analyzing the data these were the features i found important:
+The data used in this assesment was found at datadriven.org and retrieved from the government of Tanzania and Taarifa. The information had duplicate entries and within the [EDA file](https://github.com/Danayt09/Tanzanian_Water_Wells/blob/main/EDA.ipynb), after cleaning anf analyzing the data these were the features i found important:
 
 1. date_recorded -- The date the row was entered          
 2. funder -- Who funded the well                 
@@ -41,7 +41,7 @@ Areas which had public meetings were most likely to have water access and a func
 ![Functionality vs Public Meetings](Images/Publicmeeting.png)
 
 #### Adopting this model:
-The model created in the [final_notebook] is a predictive model that states a wells functional status given it's features. The model is currenty 74% accurate meaning it'll predict the actual status of a well accurately 74% of the time, with great room for improvement as this was done in a weeks worth of time. Consistent with the above analysis the top ten features I found most influential were as follows:
+The model created in the [/ModelNotebook](https://github.com/Danayt09/Tanzanian_Water_Wells/blob/main/Final_Notebook.ipynb) is a predictive model that states a wells functional status given it's features. The model is currenty 74% accurate meaning it'll predict the actual status of a well accurately 74% of the time, with great room for improvement as this was done in a weeks worth of time. Consistent with the above analysis the top ten features I found most influential were as follows:
 
 ![Top 10 influential Features](Images/10features.png)
 
@@ -54,7 +54,7 @@ The model created in the [final_notebook] is a predictive model that states a we
 #### Next Steps:
 Improve the model with better data and tuning, create a multi class as this is binary for those needing repair and functional repairs while data includes 3 classes with those needing repairs being non-functional and a 7% of them Functional that needs a repair. 
 
-Identify micro-lending possibilities, an important finding was the influence of community building and another fact that can be found in the ![presentation] is that some form of payment has association with a functional well, rather than those who didn't pay. And micro lening is a great financial tool to create a self sufficient communiuty. 
+Identify micro-lending possibilities, an important finding was the influence of community building and another fact that can be found in the [presentation](https://github.com/Danayt09/Tanzanian_Water_Wells/blob/main/Tanzanian%20Water%20Wells.pdf) is that some form of payment has association with a functional well, rather than those who didn't pay. And micro lening is a great financial tool to create a self sufficient communiuty. 
 
 #### Limitaions:
 
