@@ -33,17 +33,17 @@ The information includes the communities participation, regulators matters that 
 #### Age of Well:
 Not too surprisingly i found that age was a determinant factor and had great influence in a pumps functionality, newer wells had greator functional numbers compared to non functional well where majoprity were older. This highlight the lack of proactive managment and as a venture to address water access to rural areas of Tanzania, it's important to realize the steps needed past installment. 
 
-![Functionality vs Age of Well](Agevsfunctionality.ipng.jpeg.png)
+![Functionality vs Age of Well](Images/Agevsfunctionality.ipng.jpeg.png)
 
 #### Publics meeting:
 Areas which had public meetings were most likely to have water access and a functional water pump than those that didn't have meetings. This leads us to advocate for people empowerment and education towards action for better results, compared to outsoide intervention. 
 
-![Functionality vs Public Meetings](Publicmeeting.png)
+![Functionality vs Public Meetings](Images/Publicmeeting.png)
 
 #### Adopting this model:
 The model created in the [final_notebook] is a predictive model that states a wells functional status given it's features. The model is currenty 74% accurate meaning it'll predict the actual status of a well accurately 74% of the time, with great room for improvement as this was done in a weeks worth of time. Consistent with the above analysis the top ten features I found most influential were as follows:
 
-![Top 10 influential Features](10features.png)
+![Top 10 influential Features](Images/10features.png)
 
 # Recommendations:
 
