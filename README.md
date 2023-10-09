@@ -5,7 +5,7 @@
 Tanzanzia is a developing country located in the east of Africa, the country has a population of 67.4 Million, with a GDP of $67.8 Billion  and an economic growth rate of 6% by 2025. The goal of this project is to address some important UN sustainable dev goals in Tanzania. Those are associated to water access, water sanitation and poverty reduction as water has direct relationship to crop growth, health, societal participation and decreased school attendance for young boys and girl which affects their development. The mission of this project is to identify areas with high correlation to a pumps functionality, from this identification this project will then recommend actions to take to improve water access and create a model to create efficiency in handling future pump status based on it's features.
 
 # Data Understanding 
-The data used in this assesment was found at datadriven.org and retrieved from the government of Tanzania and Taarifa. The information had duplicate entries and within th EDA file, after cleaning anf analyzing the data these were the features i found important:
+The data used in this assesment was found at datadriven.org and retrieved from the government of Tanzania and Taarifa. The information had duplicate entries and within th [EDA file(https://github.com/Danayt09/Tanzanian_Water_Wells/blob/main/EDA.ipynb), after cleaning anf analyzing the data these were the features i found important:
 
 1. date_recorded -- The date the row was entered          
 2. funder -- Who funded the well                 
@@ -33,7 +33,7 @@ The information includes the communities participation, regulators matters that 
 #### Age of Well:
 Not too surprisingly i found that age was a determinant factor and had great influence in a pumps functionality, newer wells had greator functional numbers compared to non functional well where majoprity were older. This highlight the lack of proactive managment and as a venture to address water access to rural areas of Tanzania, it's important to realize the steps needed past installment. 
 
-[Image]
+![Functionality vs Age of Well](plots/work_plane_chart.jpg)
 
 #### Publics meeting:
 Areas which had public meetings were most likely to have water access and a functional water pump than those that didn't have meetings. This leads us to advocate for people empowerment and education towards action for better results, compared to outsoide intervention. 
