@@ -41,7 +41,7 @@ Areas which had public meetings were most likely to have water access and a func
 ![Functionality vs Public Meetings](Images/Publicmeeting.png)
 
 #### Adopting this model:
-The model created in the [/ModelNotebook](https://github.com/Danayt09/Tanzanian_Water_Wells/blob/main/Final_Notebook.ipynb) is a predictive model that states a wells functional status given it's features. The model is currenty 74% accurate meaning it'll predict the actual status of a well accurately 74% of the time, with great room for improvement as this was done in a weeks worth of time. Consistent with the above analysis the top ten features I found most influential were as follows:
+The model created in the [/Model Notebook](https://github.com/Danayt09/Tanzanian_Water_Wells/blob/main/Final_Notebook.ipynb) is a predictive model that states a wells functional status given it's features. The model is currenty 74% accurate meaning it'll predict the actual status of a well accurately 74% of the time, with great room for improvement as this was done in a weeks worth of time. Consistent with the above analysis the top ten features I found most influential were as follows:
 
 ![Top 10 influential Features](Images/10features.png)
 
