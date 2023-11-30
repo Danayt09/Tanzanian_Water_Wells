@@ -43,7 +43,7 @@ Areas which had public meetings were most likely to have water access and a func
 ![Functionality vs Public Meetings](Images/Publicmeeting.png)
 
 #### Adopting this model:
-The model created in the [/Model Notebook](https://github.com/Danayt09/Tanzanian_Water_Wells/blob/main/Final_Notebook.ipynb) is a predictive model that states a wells functional status given it's features. The model is currenty 74% accurate meaning it'll predict the actual status of a well accurately 74% of the time, with great room for improvement as this was done in a weeks worth of time. Consistent with the above analysis the top ten features I found most influential were as follows:
+The model created in the [Model Notebook](https://github.com/Danayt09/Tanzanian_Water_Wells/blob/main/Final_Notebook.ipynb) is a predictive model that states a wells functional status given it's features. The model is currenty 79% accurate meaning it'll predict the actual status of a well accurately 79% of the time, with great room for improvement as this was done in a weeks worth of time. Consistent with the above analysis the top ten features I found most influential were as follows:
 
 ![Top 10 influential Features](Images/10features.png)
 
@@ -54,10 +54,12 @@ The model created in the [/Model Notebook](https://github.com/Danayt09/Tanzanian
 >- Adopting This Model 
 
 #### Next Steps:
-Improve the model with better data and tuning, create a multi class as this is binary for those needing repair and functional repairs while data includes 3 classes with those needing repairs being non-functional and a 7% of them Functional that needs a repair. 
+Improve the model with better data and tuning, create a multi class as this is binary for those needing repair and functional wells while data includes 3 classes with those needing repairs being non-functional and a 7% of them Functional that needs a repair. 
 
 Identify micro-lending possibilities, an important finding was the influence of community building and another fact that can be found in the [presentation](https://github.com/Danayt09/Tanzanian_Water_Wells/blob/main/Tanzanian%20Water%20Wells.pdf) is that some form of payment has association with a functional well, rather than those who didn't pay. And micro lening is a great financial tool to create a self sufficient communiuty. 
 
 #### Limitaions:
 
 It is important to note that this is a binary model and the original data was ternary. 
+
+
